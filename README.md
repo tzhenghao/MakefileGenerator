@@ -23,11 +23,11 @@ Software Used
 
 Screenshots
 ------------
-[!Alt text](/img/terminalView.png)
+![Alt text](/img/terminalView.png)
 This is a screenshot taken for when this program is run on the terminal using
 the command ./makefileGenerator.sh
 
-[!Alt text](/img/openedInVim.png)
+![Alt text](/img/openedInVim.png)
 This is a screenshot taken for when this program is run on the terminal using
 the command ./makefileGenerator.sh > Makefile (or some other file name)
 
