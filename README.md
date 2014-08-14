@@ -10,17 +10,19 @@ Installation
 
 Usage
 -----------------
+Just go ahead and run ./makefileGenerator.sh in the terminal to get started.
+A menu should prompt you on which sections that you would like to add to your
+Makefile.
 
 More Program Options
 -----------------
 
 Software Used
 -----------------
-
 1. Shell Script
-2.
-3.
-4. 
+
+Screenshots
+------------
 
 Support
 -----------------
